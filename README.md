@@ -20,10 +20,10 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 
 1. Clone the repository and navigate to the downloaded folder.
 	
-	```	
-		git clone https://github.com/udacity/deep-learning-v2-pytorch.git
-		cd deep-learning-v2-pytorch/project-dog-classification
-	```
+```	
+git clone https://github.com/udacity/deep-learning-v2-pytorch.git
+cd deep-learning-v2-pytorch/project-dog-classification
+```
 	
 __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-download the datasets in steps 2 and 3 - they can be found in the `/data` folder as noted within the workspace Jupyter notebook.
 
@@ -32,9 +32,9 @@ __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-downlo
 4. Make sure you have already installed the necessary Python packages according to the README in the program repository.
 5. Open a terminal window and navigate to the project folder. Open the notebook and follow the instructions.
 	
-	```
-		jupyter notebook dog_app.ipynb
-	```
+```
+jupyter notebook dog_app.ipynb
+```
 
 __NOTE:__ While some code has already been implemented to get you started, you will need to implement additional functionality to successfully answer all of the questions included in the notebook. __Unless requested, do not modify code that has already been included.__
 
